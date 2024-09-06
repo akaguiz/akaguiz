@@ -6,7 +6,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akaguiz&theme=tokyonight" alt="Guilherme github stats" /> 
+<!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akaguiz&theme=tokyonight" alt="Guilherme github stats" /> -->
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaguiz&hide_progress=true&theme=tokyonight"/>
 </div>
 
