@@ -2,16 +2,19 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8033ff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Guilherme!;Welcome+to+my+profile!;+:%29)](https://git.io/typing-svg) 
 
+<br>
+
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akaguiz&show_icons=true&count_private=true&hide_border=true&title_color=8033ff&icon_color=8033ff&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaguiz&layout=compact&hide_border=true&title_color=8033ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=akaguiz&theme=tokyonight" alt="Guilherme github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaguiz&hide_progress=true&theme=tokyonight"/>
 </div>
+
+<br>
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akaguiz&bg_color=000000&color=8033ff&line=8033ff&point=8033ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akaguiz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 ### Main skills:
 <a href="https://skillicons.dev">
