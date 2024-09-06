@@ -40,7 +40,7 @@
    <a href="mailto:gui.bacelar2014@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
-   <a href="www.linkedin.com/in/guilherme-bacelar-22b990195/" target="_blank">
+   <a href="https://www.linkedin.com/in/guilherme-bacelar-22b990195/" target="_blank">
      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
 </div>
